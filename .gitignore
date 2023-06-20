@@ -1,0 +1,5 @@
+/images/*
+/tmp/*
+geckodriver.log
+*.html
+recognized.txt
